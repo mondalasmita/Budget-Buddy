@@ -7,9 +7,9 @@ import TransactionForm from "../components/TransactionForm";
 import { MdLogout } from "react-icons/md";
 import toast from "react-hot-toast";
 import { useMutation, useQuery } from "@apollo/client";
-import { LOGOUT } from "../graphql/mutations/user.mutation";
-import { GET_TRANSACTION_STATISTICS } from "../graphql/queries/transaction.query";
-import { GET_AUTHENTICATED_USER } from "../graphql/queries/user.query";
+import { LOGOUT } from "../graphQL/mutations/user.mutation";
+import { GET_TRANSACTION_STATISTICS } from "../graphQL/queries/transaction.query";
+import { GET_AUTHENTICATED_USER } from "../graphQL/queries/user.query";
 import { useEffect, useState } from "react";
 
 // const chartData = {
