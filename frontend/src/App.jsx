@@ -6,7 +6,7 @@ import TransactionPage from "./pages/TransactionPage";
 import NotFoundPage from "./pages/NotFoundPage";
 import Header from "./components/ui/Header";
 import { useQuery } from "@apollo/client";
-import { GET_AUTHENTICATED_USER } from "../graphQL/queries/user.query";
+import { GET_AUTHENTICATED_USER } from "./graphQL/queries/user.query";
 import { Toaster } from "react-hot-toast";
 
 function App() {
