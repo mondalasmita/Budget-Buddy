@@ -39,7 +39,7 @@ I've got some ideas to make Budget-Buddy even better:
 
 ## Give It a Spin
 
-Ready to get your finances in check? Head over to (https://budget-buddy-rgij.onrender.com)and give Budget-Buddy a try. Your wallet will thank you.
+Ready to get your finances in check? Head over to (https://budget-buddy-rgij.onrender.com) and give Budget-Buddy a try. Your wallet will thank you.
 
 ## Feedback Welcome!
 
