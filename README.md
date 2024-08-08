@@ -12,8 +12,7 @@ Ever felt like your money just vanishes into thin air? Yeah, me too. That's why 
 
 - **Quick Expense Logging**: Add your expenses on the go. It's as easy as typing in a text message.
 - **Categorization**: Sort your spending into categories. Find out if you're spending more on tacos or tech (no judgment either way).
-- **Visual Reports**: See your spending habits at a glance with some nifty charts and graphs.
-- **Budget Setting**: Set budget goals and watch your progress. It's like a game, but the high score is saving money.
+- **Visual Reports**: See your spending habits at a glance with some pie chart.
 - **Responsive Design**: Use it on your computer, tablet, or phone. Your budget follows you everywhere (in a good way).
 
 ## Why I Made This
